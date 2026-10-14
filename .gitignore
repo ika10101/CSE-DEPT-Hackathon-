@@ -1,0 +1,6 @@
+__pycache__/
+*.class
+maze_path.csv
+flight_path.csv
+timetable.csv
+conflicts.csv
